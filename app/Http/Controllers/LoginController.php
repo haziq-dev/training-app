@@ -18,6 +18,9 @@ class LoginController extends Controller
         echo "changes on module 2 for revert";
         echo "changes on module 2 for revert";
         echo "changes on module 2 for revert";
+
+        echo "changes on module 2 for revert commit 2";
+        echo "changes on module 2 for revert commit 2";
     }
 
     public function index()
