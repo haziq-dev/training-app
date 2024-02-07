@@ -8,6 +8,10 @@ class LoginController extends Controller
 {
     public function create() {
         echo "create method here";
+
+        echo "changes on module 2";
+        echo "changes on module 2";
+        echo "changes on module 2";
     }
     
     public function index()
