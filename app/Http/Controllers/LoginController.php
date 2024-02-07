@@ -6,14 +6,20 @@ use Illuminate\Http\Request;
 
 class LoginController extends Controller
 {
-    public function create() {
+    public function create()
+    {
         echo "create method here";
 
         echo "changes on module 2";
         echo "changes on module 2";
         echo "changes on module 2";
+
+
+        echo "changes on module 2 for revert";
+        echo "changes on module 2 for revert";
+        echo "changes on module 2 for revert";
     }
-    
+
     public function index()
     {
         echo "changes here";
