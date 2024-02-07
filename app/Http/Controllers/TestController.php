@@ -16,6 +16,8 @@ class TestController extends Controller
         // change 5 local
         // change 5
 
+        echo "testing stash local";
+
         // Test stash
     }
 }
