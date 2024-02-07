@@ -13,6 +13,10 @@ class LoginController extends Controller
         echo "added another line";
         echo "added another line";
         echo "added another line";
+
+        echo "changes on module 2";
+        echo "changes on module 2";
+        echo "changes on module 2";
     }
 
     public function index()
