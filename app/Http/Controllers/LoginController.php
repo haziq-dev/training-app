@@ -10,13 +10,10 @@ class LoginController extends Controller
     {
         echo "create method here";
 
-        echo "added another line";
-        echo "added another line";
-        echo "added another line";
-
         echo "changes on module 2";
         echo "changes on module 2";
         echo "changes on module 2";
+        echo "soft reset on module 2";
     }
 
     public function index()
